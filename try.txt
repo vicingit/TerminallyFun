@@ -12,3 +12,67 @@ S
 awk '{ print $1, $3 }' file.txt
 
 ps -ef | grep amazon | awk -F" " '{print $2}'S
+
+curl command - retrieve info from internet
+
+curl -X GET api.foo.com
+
+wget
+
+curl vs wget
+
+find 
+
+if [expression]
+then 
+    e22e
+    3d3
+else
+    dfe
+fi
+
+kill
+
+linux signals
+
+trap command
+
+to trap signals
+
+SHELL INTERVIEWS
+
+Common commands - ls cp mv mkdir touch netcat route traceroute
+
+top sar df
+
+Shell script to list all commands
+
+ps -ef | awk -F" " '{print $2}'
+
+write a script to print only errors from a remote log
+
+curl google.com | grep HREF
+curl pipe and grep
+
+
+write a shell script tp print numbers divided by 3  and 5 and not 15
+
+
+debug = set X
+read only - vim -r test.txt
+
+
+Soft Vs Hard Link
+
+break vs continue
+
+Networking troubleshoot
+traceroute
+
+tracepath
+
+Sorting list of names in a file
+Sort command
+
+Managing logs of a system that generaye huge logs everyday
+logrotate gzip zip

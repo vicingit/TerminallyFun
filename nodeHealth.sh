@@ -4,7 +4,7 @@
 #
 #This script outputs node health
 #
-#Version: v1
+#Version: v1b
 #
 #######
 
